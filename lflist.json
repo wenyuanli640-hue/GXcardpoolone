@@ -1,0 +1,1783 @@
+{
+  "version": "1.0",
+  "generated_date": "2025-10-04T14:52:04.327384",
+  "source_file": "lflist.conf",
+  "banlists": [
+    {
+      "name": "GX2025.9.1",
+      "date": "",
+      "cards": [
+        {
+          "card_id": "87917187",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "48156348",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "80344569",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "72989439",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "82301904",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "9596126",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "78010363",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "34124316",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "34853266",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "33184167",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "78706415",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "34206604",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "03078576",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "44910027",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "69015963",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "41482598",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "44763025",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "74191942",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "42829885",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "55144522",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "04031928",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "12580477",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "69243953",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "18144506",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "53129443",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "79571449",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "85602018",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "17375316",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "45986603",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "46411259",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "61740673",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "03280747",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "35316708",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "83555666",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "31560081",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "01845204",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "60682203",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "23557835",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "27174286",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "64697231",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "30606547",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "85742772",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "79106360",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "57953380",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "21598948",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "24068492",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "87910978",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "44330098",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "79229522",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "88264978",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "37742478",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "42703248",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "77565204",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "70828912",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "41386308",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "77565204",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "33460840",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "26302522",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "58481572",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "12538374",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "46294982",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "00899287",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "15033525",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "60600126",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "27970830",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "97169186",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "07572887",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "28566710",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "70074904",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "30312361",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "40044918",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "94886282",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "57731460",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "57312333",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "44335251",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "03136426",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "44656491",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "95220856",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "56948373",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "60912752",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "17078030",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "54704216",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "16762927",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "34906152",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "38992735",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "67095270",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "84536654",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "64627453",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "20231101",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "59419719",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "86520461",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "59531356",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "96897184",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "21225115",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "43175858",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "900000098",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "00003001",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "00003002",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "00003003",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "00003004",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "00003005",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "00003006",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "00003007",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "00003008",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "00003009",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "00003010",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "00003012",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "23893227",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "44789585",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "86780027",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "20264508",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "97396380",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "01357146",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "99188141",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "23950192",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "43096270",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "47013502",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "81278754",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "90311614",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "98645731",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "30213599",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "90434657",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "84749824",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "100000247",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "162027",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "20250516",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "513000118",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "20250809",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "20250522",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "162027",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "20250520",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "20250521",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "20250523",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "20250525",
+          "limit_status": 0,
+          "status_text": "禁止"
+        },
+        {
+          "card_id": "52566270",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "25397880",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "93969023",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "15744417",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "92881099",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "18478530",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "04906301",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "66788016",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "74131780",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "48130397",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "56120475",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "22819092",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "77044671",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "73628505",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "65687442",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "48976825",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "02204140",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "41721210",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "37043180",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "36378044",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "69954399",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "80280944",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "95503687",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "97077563",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "15341821",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "79575620",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "81210420",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "45906428",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "37630732",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "00269012",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "10000000",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "10000020",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "10000010",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "21466326",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "91781589",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "32807846",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "12607053",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "36361633",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "39537362",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "31036355",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "75732622",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "28985331",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "47297616",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "44947065",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "48964966",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "26202165",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "23205979",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "16226786",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "07902349",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "08124921",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "44519536",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "70903634",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "33396948",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "31305911",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "33508719",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "83764718",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "84290642",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "46052429",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "73125233",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "19613556",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "73915051",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "56747793",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "72892473",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "72302403",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "23171610",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "75500286",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "53582587",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "44095762",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "00604091",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "36468556",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "62279055",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "71413901",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "58577036",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "43040603",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "00423585",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "81439173",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "65192027",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "34230233",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "77754944",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "70342110",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "67169062",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "29401950",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "09748752",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "22339232",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "57473560",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "17259470",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "63356631",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "31550470",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "22624373",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "61962135",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "40737112",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "92826944",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "14536035",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "09287078",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "87148330",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "84539520",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "36795102",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "96729612",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "32491822",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "69890967",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "06007213",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "17663375",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "92182447",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "62624486",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "37694547",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "70791313",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "33245030",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "80604091",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "57774843",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "45078193",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "93016201",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "52105192",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "32723153",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "09334391",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "27053506",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "62892347",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "41458579",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "01475311",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "95658967",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "22061412",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "03084730",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "27979109",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "96938986",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "52467217",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "61737116",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "60876124",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "89312388",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "70645913",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "26232916",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "39996157",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "63362460",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "93023479",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "14315573",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "38943357",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "15951532",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "59642500",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "58332301",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "58551308",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "57585212",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "57069605",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "34646691",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "79323590",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "00102380",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "02851070",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "69579761",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "03510565",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "03549275",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "11384280",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "79875176",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "85562745",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "96214561",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "06172122",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "51916032",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "77498348",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "56364287",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "85087012",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "02779999",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "73507661",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "29876529",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "86541496",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "70000776",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "16111820",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "45467446",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "31322640",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "16889337",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "76103404",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "77235086",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "14466224",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "91500017",
+          "limit_status": 1,
+          "status_text": "限制"
+        },
+        {
+          "card_id": "47222536",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "14457896",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "66540884",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "70914287",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "95027497",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "82732705",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "41420027",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "07084129",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "68005187",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "92719314",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "98494543",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "30241314",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "09126351",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "94381039",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "48686504",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "71564252",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "03026686",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "14512825",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "39980304",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "00027551",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "38120068",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "14087893",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "63665875",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "44178886",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "28933734",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "28297833",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "91623717",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "57728570",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "91231901",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "72345736",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "5318639",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "96216229",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "65342096",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "07913375",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "34250214",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "68316358",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "45985838",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "64752646",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "20358953",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "9107531",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "21296502",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "66386380",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "21143940",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "00691925",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "25773409",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "32623004",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "33365932",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "85106525",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "03657444",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "81674782",
+          "limit_status": 2,
+          "status_text": "准限制"
+        },
+        {
+          "card_id": "14878871",
+          "limit_status": 2,
+          "status_text": "准限制"
+        }
+      ]
+    }
+  ]
+}
